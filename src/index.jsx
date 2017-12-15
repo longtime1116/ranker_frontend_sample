@@ -1,8 +1,8 @@
 import React from "react"
 import ReactDom from "react-dom"
-import {Hello} from "./Hello"
+import {ShowRankSample} from "./ShowRankSample"
 
 ReactDom.render(
-  <Hello />,
+  <ShowRankSample />,
   document.getElementById("root")
 )
